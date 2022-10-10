@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kritivardhan020@gmail.com**
 
-- 📄 Know about my experiences [Software Developer 1.pdf](Software Developer 1.pdf)
+- 📄 I'm Vardhan, a Software Developer, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently learning React.js, I'm also open to having a chat about **Anything Web Development Related**
 
 - ⚡ Fun fact **I enjoy the development side of software development.**
 
