@@ -1,7 +1,7 @@
-[![MasterHead]("https://www.behance.net/gallery/95746151/WIJMOBIEL-GIF-ANIMATED-BANNERS")]
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif)
 <h1 align="center">Hi 👋, I'm Kritivardhan Pandey</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Img" width="400 img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-vardhan&label=Profile%20views&color=0e75b6&style=flat" alt="k-vardhan" /> </p>
 
